@@ -20,6 +20,8 @@ The dataset contains 303 records with the following columns:
 - **thall**: Thalassemia (encoded)
 - **output**: Presence or absence of heart disease (target variable)
 
+**For more Infomation**[here](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset/data)
+
 ## Importing Libraries
 I start by importing essential Python libraries for data manipulation, preprocessing, model building, and evaluation, including Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn.
 
