@@ -54,3 +54,5 @@ A comprehensive analysis of the dataset's features and their distributions is co
 
 ## Conclusion
 The Logistic Regression model, after tuning and cross-validation, is identified as the best-performing model for heart attack prediction. This project demonstrates the effectiveness of various classification algorithms and provides a reliable model for predicting heart attack risk based on patient data.
+
+![Importance](https://cityupload.io/2024/09/importance.png)
